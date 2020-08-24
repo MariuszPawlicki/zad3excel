@@ -1,0 +1,7 @@
+Przypadek objętości dwuwymiarowej hiperkuli (koła) rozważany był wielokrotnie i łatwo znaleźć 
+w Internecie skrypt w prawie każdym języku programowania, który pozwala wyznaczyć liczbę π. 
+My natomiast odpowiemy sobie na zadane wcześniej pytanie „Ile wynosi C4 w równaniu na objętość czterowymiarowej hiperkuli?”. 
+
+Zadaniem było napisanie programu który za pomocą metody monte carlo obliczy w przybliżeniu współczynnik C4 dla kuli 4ro wymiarowej.
+Wyniki trzeba było obliczyć dla kolejno 10, 100, 1000, 10000, 50000 punktów pomiarowych, a nstępnie przedstawić je w excelu wraz z błędem pomiarowym
+obliczonym przy użyciu oficjalnego pomiaru tej stałej dostępnej na wikipedii.
